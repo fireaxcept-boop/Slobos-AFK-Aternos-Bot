@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "24/7",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Lapis100.aternos.me",
